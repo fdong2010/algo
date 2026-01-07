@@ -25,8 +25,9 @@ Output: 0
 
 ### Constraints:
 
-1 <= nums.length <= 104
-1 <= nums[i] <= 105
+1 <= nums.length <= $10^4$
+1 <= nums[i] <= $10^5$
+
 
 
 
