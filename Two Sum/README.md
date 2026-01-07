@@ -21,7 +21,7 @@ Input: nums = [3,2,4], target = 6
 
 Output: [1,2]
 
-Example 3:
+### Example 3:
 
 Input: nums = [3,3], target = 6
 
@@ -40,6 +40,7 @@ Only one valid answer exists.
  
 
 **Follow-up:** Can you come up with an algorithm that is less than O(n2) time complexity?
+
 
 
 
