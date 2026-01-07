@@ -1,5 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Solution mySolution = new Solution();
+
+        int result = mySolution.sumFourDivisors(new int[]{21,9,16});
+        System.out.println(result);
+    
     }
 }
