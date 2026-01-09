@@ -9,4 +9,5 @@ public class SolutionTest {
         int result = mySolution.sumFourDivisors(new int[]{3,20,10});
         assertEquals(18, result);
     }
+
 }
